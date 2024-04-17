@@ -1,4 +1,4 @@
-# softwareicons
+# software icons
 
 ## To extract icon from exe: 
 
